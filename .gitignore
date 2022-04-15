@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+node_modules/
+.npm
+.env
+data.csv
+*.xlsx
+package-lock.json
